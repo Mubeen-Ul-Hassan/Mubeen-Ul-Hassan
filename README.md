@@ -16,27 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mubeen Ul Hassan</h1>
 <h3 align="center">A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing maintainable code.</h3>
 
-- 🔭 I’m currently working on [N/A](N/A).
-
-- 🌱 I’m currently learning **Nextjs**.
-
-- 👯 I’m looking to collaborate on [N/A](N/A).
-
-<!-- - 🤝 I’m looking for help with [N/A](N/A). -->
-
-- 👨‍💻 All of my projects are available at github.
-
-<!-- - 📝 I regularly write articles on [N/A](N/A). -->
-
-- 💬 Ask me about **python, sql and bash.**
-
-- 📫 How to reach me **mubeenulhassan396@gmail.com**.
-
-<!-- - 📄 Know about my experiences [N/A](N/A). -->
-
-- ⚡ Fun fact **I love psychology and philosophy.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
