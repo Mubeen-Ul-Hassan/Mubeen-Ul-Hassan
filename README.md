@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ul Hassan</h1>
 <h3 align="center">A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing maintainable code.</h3>
 
-<p align="left">
-</p>
+<br>
+<br>
+
+<div align="center">
+
+### “You must have chaos within you to give birth to a dancing star.”
+
+— Friedrich Nietzsche
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
